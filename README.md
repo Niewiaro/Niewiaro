@@ -14,6 +14,7 @@
 ###
 
 <div align="left">
+  
 - 🔭 I’m currently working on [ESPy-Lumi](https://github.com/Niewiaro/ESPy-Lumi)
 
 - 🌱 I’m currently studying **Industrial Automation and Robotics at AGH 🟩⬛🟥**
@@ -25,6 +26,7 @@
 - 📄 Know about my experiences **Requirements Manager in 🟠 Aptiv 🟠**
 
 - ⚡ Fun fact **Big fan of sailing ⛵**
+  
 </div>
 
 ###
