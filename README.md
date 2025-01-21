@@ -144,12 +144,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=niewiaro&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=4&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niewiaro&radius=16&theme=vue&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
