@@ -15,9 +15,11 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on [ESPy-Lumi](https://github.com/Niewiaro/ESPy-Lumi)
+- 🔭 I am currently working on my master's thesis (coming soon...)
 
-- 🌱 I’m currently studying **Industrial Automation and Robotics at AGH 🟩⬛🟥**
+- 🎓 I hold an **Bachelor of Science degree in Industrial Automation and Robotics from AGH University of Science and Technology 🟩⬛🟥 (Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie)**
+
+- 🎓 I’m currently pursuing a **Master’s degree in Applied Computer Science at Cracow University of Technology (Politechnika Krakowska im. Tadeusza Kościuszki)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Niewiaro](https://github.com/Niewiaro)
 
@@ -28,6 +30,7 @@
 - ⚡ Fun fact **Big fan of sailing ⛵**
   
 </div>
+
 
 ###
 
