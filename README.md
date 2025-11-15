@@ -150,23 +150,58 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Niewiaro/Niewiaro/output/github-snake.svg" />
 </picture>
 
-###
+---
+
+### 📘 **Languages Overview**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niewiaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="256" alt="stats graph"  />
+
+#### ⭐ Top 5 Languages
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=false"
+    height="200"
+    alt="Top 5 Languages"
+  />
+</p>
+
+---
+
+#### 🌐 Full Language Distribution
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=30&theme=vue-dark&hide_border=false"
+    height="200"
+    alt="Full Language Distribution"
+  />
+</p>
+
 </div>
 
-###
+---
+
+### 🔥 **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false&order=2" height="256" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=vue-dark&hide_border=false&order=2" height="256" alt="languages graph"  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=niewiaro&radius=16&theme=vue&area=true&hide_border=false"
+    height="300"
+    alt="Contribution Graph"
+  />
 </div>
 
-###
+---
+
+### ➕ **Main GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niewiaro&radius=16&theme=vue&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=niewiaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false"
+    height="200"
+    alt="GitHub Stats"
+  />
 </div>
 
-###
+---
