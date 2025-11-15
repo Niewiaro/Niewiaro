@@ -1,207 +1,199 @@
 <h1 align="center">Hi 👋, I'm Niewiaro</h1>
-<h3 align="center">A fulltime Python & Fullstack, passionate embeded developer from Poland</h3>
+<h3 align="center">A full-time Python & Full-Stack developer, passionate about embedded systems — from Poland 🇵🇱</h3>
 
-###
-
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=niewiaro&label=Profile%20views&color=0e75b6&style=flat" alt="niewiaro" /> </div>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=niewiaro&theme=dracula&column=5&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="250" alt="trophy graph"  />
+  <img src="https://komarev.com/ghpvc/?username=niewiaro&label=Profile%20views&color=0e75b6&style=flat" alt="profile views counter" />
 </div>
 
-###
+<br>
 
-<div align="left">
-  
-- 🔭 I am currently working on my master's thesis (coming soon...)
+---
 
-- 🎓 I hold an **Bachelor of Science degree in Industrial Automation and Robotics from AGH University of Science and Technology (Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie) 🟩⬛🟥**
+<h2 align="center">🏆 GitHub Achievements</h2>
 
-- 🎓 I’m currently pursuing a **Master’s degree in Applied Computer Science at Cracow University of Technology (Politechnika Krakowska im. Tadeusza Kościuszki)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Niewiaro](https://github.com/Niewiaro)
-
-- 📫 How to reach me **niewiarowski.kuba@gmail.com**
-
-- 📄 Know about my experiences **Requirements Manager in 🟠 Aptiv 🟠**
-
-- ⚡ Fun fact **Big fan of sailing ⛵**
-  
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=niewiaro&theme=dracula&column=5&row=2&margin-w=8&margin-h=8&no-frame=false" 
+    height="250" 
+    alt="GitHub trophies" 
+  />
 </div>
 
+---
 
-###
+# 👤 About Me
+
+- 🔭 Currently working on my **Master’s thesis** (coming soon…)
+- 🎓 **BSc in Industrial Automation & Robotics — AGH University of Science and Technology**
+- 🎓 **MSc in Applied Computer Science — Cracow University of Technology**
+- 👨‍💻 All of my projects: **https://github.com/Niewiaro**
+- 📫 Reach me at: **niewiarowski.kuba@gmail.com**
+- 📄 Work experience: **Requirements Manager — 🟠 Aptiv 🟠**
+- ⚡ Fun fact: **Big fan of sailing ⛵**
 
 <br>
 
 > [!IMPORTANT]
-> Big shoutout to my buddy and mentor, [@misiekroz](https://www.github.com/misiekroz). Grateful for diving into the embedded world together and embarking on this awesome coding journey that still brings me joy every day!
+> Big shoutout to my buddy and mentor,  
+> **[@misiekroz](https://www.github.com/misiekroz)** — thanks for diving into embedded work together and making this coding journey awesome!
 
-<br>
+---
 
-###
-
-<h3 align="left">Connect with me:</h3>
+# 🔗 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jakub-niewiarowski/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo" />
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">🧠 Languages</h3>
+## 🧠 Languages
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="matlab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
 </div>
 
 ---
 
-<h3 align="left">⚙️ Backend</h3>
+## ⚙️ Backend
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
 </div>
 
 ---
 
-<h3 align="left">🎨 Frontend</h3>
+## 🎨 Frontend
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="nuxtjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
 </div>
 
 ---
 
-<h3 align="left">🧰 Tools & IDEs</h3>
+## 🧰 Tools & IDEs
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="raspberrypi logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50"/>
 </div>
 
 ---
 
-<h3 align="left">🖥️ Systems & Version Control</h3>
+## 🔬 Hardware / SBC
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="50" alt="putty logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50"/>
 </div>
 
+---
 
-###
+## 🖥️ Systems & Version Control
 
-<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="50"/>
+</div>
+
+---
+
+# 📘 **Languages Overview**
+
+<div align="center">
+
+### ⭐ Top 5 Languages
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=false"
+  height="200"
+/>
+
+---
+
+### 🌐 Full Language Distribution
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&layout=compact&card_width=350&langs_count=30&theme=vue-dark&hide_border=false"
+  height="200"
+/>
+
+</div>
+
+---
+
+# 🔥 Activity Graph
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=niewiaro&radius=16&theme=vue&area=true&hide_border=false"
+    height="300"
+  />
+</div>
+
+---
+
+# ➕ Main GitHub Stats
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=niewiaro&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=false"
+    height="200"
+  />
+</div>
+
+---
 
 > [!CAUTION]
 > Beware of snakes!
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niewiaro/Niewiaro/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niewiaro/Niewiaro/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Niewiaro/Niewiaro/output/github-snake.svg" />
 </picture>
-
----
-
-### 📘 **Languages Overview**
-
-<div align="center">
-
-#### ⭐ Top 5 Languages
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=false"
-    height="200"
-    alt="Top 5 Languages"
-  />
-</p>
-
----
-
-#### 🌐 Full Language Distribution
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=30&theme=vue-dark&hide_border=false"
-    height="200"
-    alt="Full Language Distribution"
-  />
-</p>
-
-</div>
-
----
-
-### 🔥 **Activity Graph**
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=niewiaro&radius=16&theme=vue&area=true&hide_border=false"
-    height="300"
-    alt="Contribution Graph"
-  />
-</div>
-
----
-
-### ➕ **Main GitHub Stats**
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=niewiaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false"
-    height="200"
-    alt="GitHub Stats"
-  />
-</div>
-
----
