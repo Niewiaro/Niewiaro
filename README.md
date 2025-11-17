@@ -151,7 +151,7 @@
 
 ### ⭐ Top 5 Languages
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&layout=donut&card_width=350&langs_count=5&theme=vue-dark&hide_border=false"
   height="200"
 />
 
