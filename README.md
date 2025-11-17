@@ -151,7 +151,7 @@
 
 ### ⭐ Top 5 Languages
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&layout=donut&card_width=350&langs_count=5&theme=vue-dark&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&layout=donut&langs_count=5&theme=vue-dark&hide_border=false"
   height="200"
 />
 
@@ -159,15 +159,15 @@
 
 ### 🌐 Full Language Distribution
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&layout=compact&card_width=350&langs_count=30&theme=vue-dark&hide_border=false"
-  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=niewiaro&locale=en&layout=compact&langs_count=40&theme=vue-dark&hide_border=false"
+  height="300"
 />
 
 </div>
 
 ---
 
-# 🔥 Activity Graph
+# 🎯 Activity Graph
 
 <div align="center">
   <img
@@ -182,9 +182,18 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=niewiaro&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=niewiaro&show_icons=true&include_all_commits=true&count_private=false&theme=vue-dark&hide_border=false"
     height="200"
   />
+</div>
+
+---
+
+# 🔥 Streak
+
+<div align="center">
+  <img src="https://git-hub-streak-stats.vercel.app?user=Niewiaro&theme=vue-dark&card_height=200" alt="GitHub Streak" 
+    />
 </div>
 
 ---
