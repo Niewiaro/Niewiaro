@@ -26,8 +26,19 @@ I am a software engineer specializing in Python automation, modern web applicati
 
 I am a proud member and programmer of the **"Czterej Pancerni i Piec"** hackathon team. We specialize in embedded systems, IoT, and hardware challenges, and have secured several national-level victories across Poland.
 
+- **4st Place — RCDC 2026** (Remote Car Development Category)
+  - **Date & Location:** Apr 25, 2026, Cracow | **Organizer:** BEST AGH Kraków
+  - **Theme:** Built a remote-controlled car from provided raw components and competed against other teams on a dedicated race track.
+  - 🔗 [Check out the repo](https://github.com/Niewiaro/RCDC-2026)
+    
+- 🥉 **3rd Place — Hacknarök 2026** (Hardware Category)
+  - **Date & Location:** Apr 18-19 (24h), 2026, Cracow | **Organizer:** eeStec AGH Kraków
+  - **Theme:** Vikings' Smart City
+  - **Project:** A city model with LEDs and servomechanisms protecting the inhabitants from the "whims" of the Nordic gods.
+  - 🔗 [Check out the repo](https://github.com/Niewiaro/hacknarok-2026)
+    
 - 🥉 **3rd Place — 11th BEST Hacking League** (Hardware Category)
-  - **Date & Location:** Nov 29-30, 2025, Warsaw | **Organizer:** BEST Warsaw
+  - **Date & Location:** Nov 29-30 (24h), 2025, Warsaw | **Organizer:** BEST Warsaw
   - **Theme:** Eco-innovations
   - **Project:** Distributed IoT chimney caps system for monitoring combustion products.
   - 🔗 [Check out the repo](https://github.com/Niewiaro/BHL-2025-Hardware)
@@ -40,7 +51,7 @@ I am a proud member and programmer of the **"Czterej Pancerni i Piec"** hackatho
 - 🥇 **1st Place — RCDC 2025** (Remote Car Development Category)
   - **Date & Location:** Apr 26, 2025, Cracow | **Organizer:** BEST AGH Kraków
   - **Theme:** Built a remote-controlled car from provided raw components and competed against other teams on a dedicated race track.
-  - 🔗 [Check out the repo](https://github.com/Niewiaro/MECHATON-AGH)
+  - 🔗 [Check out the repo](https://github.com/Niewiaro/RCDC-2025)
 
 ---
 
