@@ -31,7 +31,7 @@ I am a proud member and programmer of the **"Czterej Pancerni i Piec"** hackatho
   - **Theme:** Built a remote-controlled car from provided raw components and competed against other teams on a dedicated race track.
   - 🔗 [Check out the repo](https://github.com/Niewiaro/RCDC-2026)
     
-- 🥉 **3rd Place — Hacknarök 2026** (Hardware Category)
+- 🥉 **3rd Place — Hacknarök 2026** (Artificial Intelligence of Things)
   - **Date & Location:** Apr 18-19 (24h), 2026, Cracow | **Organizer:** eeStec AGH Kraków
   - **Theme:** Vikings' Smart City
   - **Project:** A city model with LEDs and servomechanisms protecting the inhabitants from the "whims" of the Nordic gods.
