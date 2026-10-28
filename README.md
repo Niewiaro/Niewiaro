@@ -10,9 +10,9 @@ I am a software engineer specializing in Python automation, modern web applicati
 
 ## 👤 About Me
 
-- 💻 **Current Role:** Full-Stack & Python Automation Developer at **🔷 EuroCert 🔷**
-- ⏪ **Previous Experience:** Requirements Manager / Full-Stack & Python Automation Developer at **🟠 Aptiv 🟠**
-- 🎓 **MSc in Applied Computer Science** (in progress) — Faculty of Mechanical Engineering, Cracow University of Technology
+- 💻 **Current Role:** Full-Stack (*Python FastAPI & Nuxt.js*) Developer at **🔷 EuroCert 🔷**
+- ⏪ **Previous Experience:** Requirements Manager / Full-Stack (*Python Django & Vue.js*) & Python Automation Developer at **🟠 Aptiv 🟠**
+- 🎓 **MSc in Applied Computer Science** — Faculty of Mechanical Engineering, Cracow University of Technology
 - 🎓 **BSc in Industrial Automation & Robotics** — Faculty of Mechanical Engineering, AGH University of Krakow
 - ⚡ **Fun fact:** Big fan of sailing ⛵
 
